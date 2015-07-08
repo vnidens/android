@@ -607,6 +607,10 @@
     <string name="storage_description_sd_no">SD card %1$d</string>
     <string name="storage_description_unknown">Unknown</string>
 
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+
     <!-- What's new feature and texts to show -->
     <string name="whats_new_title">What\'s new in Nextcloud</string>
 
